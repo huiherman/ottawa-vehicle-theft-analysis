@@ -11,13 +11,22 @@ To apply best practices in data visualization by refining a bar chart, line char
    - Filtered low-frequency categories  
    - Applied clean labeling, color adjustments, and contextual titling
 
+     ![image](https://github.com/user-attachments/assets/da32c86a-ede7-4ef9-97d7-dffe99985689)
+
+
 2. **Line Chart** – Car Theft Trends Over Time  
    - Refined visual layout by removing clutter  
    - Added annotations to emphasize changes from 2020 to 2023
+  
+   ![image](https://github.com/user-attachments/assets/64ad9d21-2dc6-4f89-b414-c915cb54b8a8)
+
 
 3. **Pie Chart** – Theft Distribution by Region  
    - Improved labeling, consistency, and audience readability  
    - Highlighted key segments using color and annotations
+  
+   ![image](https://github.com/user-attachments/assets/26fb70f4-6b85-45c1-937e-6d0173f27722)
+
 
 ## Key Results
 - Reduced visual clutter and enhanced message clarity through simplified charts  
